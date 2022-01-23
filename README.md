@@ -1,2 +1,2 @@
 # MyNotes
-Notes for DataAnalysis/MachineLearning/DeepLearning
+Notes for Data Analysis/Machine Learning/Deep Learning
